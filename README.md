@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vera-D
-- 👀 I’m interested in biotechnology and medical devices regulatory affairs
+- 👀 I’m interested in genomics and medical devices regulatory affairs
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me, email: vera0m0diaz@gmail.com
